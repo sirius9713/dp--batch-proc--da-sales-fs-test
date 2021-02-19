@@ -1,0 +1,2 @@
+clickhouse-driver
+airflow-clickhouse-plugin
